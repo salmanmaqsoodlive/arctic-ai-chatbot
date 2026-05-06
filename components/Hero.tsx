@@ -85,13 +85,6 @@ export default function Hero({ onOpenChat }: Props) {
 
       <div className="relative z-10 flex-1 flex items-center justify-center px-5 sm:px-8 py-14 sm:py-20">
         <div className="w-full max-w-2xl mx-auto text-center">
-          <div className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-500/20 rounded-full px-4 py-1.5 mb-7 sm:mb-8">
-            <span className="w-1.5 h-1.5 rounded-full bg-orange-400 animate-pulse flex-shrink-0" />
-            <span className="text-orange-300 text-sm font-medium">
-              Available 24/7 &middot; Los Angeles, CA
-            </span>
-          </div>
-
           <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-extrabold text-white leading-[1.08] tracking-tight mb-5">
             Fast, Reliable
             <br />
